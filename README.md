@@ -30,8 +30,8 @@ Bu proje, kullanıcıdan ismini alarak metni kişiselleştiren ve sayfanın aç�
 2. **Adım 1: Dosyayı İndirin veya Kopyalayın**
    Aşağıdaki kodu bir HTML dosyasına yapıştırın (`index.html` gibi) ve bir tarayıcıda açın.
 
-    ```
-  <!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
@@ -70,7 +70,7 @@ Bu proje, kullanıcıdan ismini alarak metni kişiselleştiren ve sayfanın aç�
     <script src="./script.js"></script>
 </body>
 </html>
-    ```
+```
 
     ```Javascript
     let userName = prompt("Lütfen isminizi girin:");
