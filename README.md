@@ -30,7 +30,7 @@ Bu proje, kullanıcıdan ismini alarak metni kişiselleştiren ve sayfanın aç�
 2. **Adım 1: Dosyayı İndirin veya Kopyalayın**
    Aşağıdaki kodu bir HTML dosyasına yapıştırın (`index.html` gibi) ve bir tarayıcıda açın.
 
-    ```HTML
+    ```
   <!DOCTYPE html>
 <html lang="tr">
 <head>
