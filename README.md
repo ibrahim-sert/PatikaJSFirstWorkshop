@@ -67,11 +67,11 @@ Bu proje, kullanıcıdan ismini alarak metni kişiselleştiren ve sayfanın aç�
     <div id="message">KODLUYORUZ</div>
     <div id="greeting"></div>
     <div id="counter">00:00:00 Cuma tarihinde Kodluyoruz Frontend Web Development Patikası'nın Javascript bölümü 1. Ödevindesiniz.</div>
-
     <script src="./script.js"></script>
 </body>
 </html>
     ```
+
     ```Javascript
     let userName = prompt("Lütfen isminizi girin:");
 
